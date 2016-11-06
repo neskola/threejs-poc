@@ -1,2 +1,3 @@
 # threejs-poc
-PoC for three.js 
+
+Some experiments with https://threejs.org/ OpenGL JavaScript. 
